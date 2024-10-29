@@ -1,5 +1,5 @@
 https://github.com/Samicaseres/Modpack/raw/69b10c16a5def67b856ee3809402f3c2000b9e80/1.18.2SecurityCraftv1.9.11.jar,1.18.2SecurityCraftv1.9.11.jar
-https://github.com/Samicaseres/Modpack/raw/69b10c16a5def67b856ee3809402f3c2000b9e80/AutoRegLib-1.7-53.jar,AutoRegLib-1.7-53.jarjar
+https://github.com/Samicaseres/Modpack/raw/69b10c16a5def67b856ee3809402f3c2000b9e80/AutoRegLib-1.7-53.jar,AutoRegLib-1.7-53.jar
 https://github.com/Samicaseres/Modpack/raw/69b10c16a5def67b856ee3809402f3c2000b9e80/BiomesOPlenty-1.18.2-16.0.0.134.jar,BiomesOPlenty-1.18.2-16.0.0.134.jar
 https://github.com/Samicaseres/Modpack/raw/69b10c16a5def67b856ee3809402f3c2000b9e80/Bookshelf-Forge-1.18.2-13.3.56.jar,Bookshelf-Forge-1.18.2-13.3.56.jar
 https://github.com/Samicaseres/Modpack/raw/69b10c16a5def67b856ee3809402f3c2000b9e80/Chunky-1.2.164.jar,Chunky-1.2.164.jar
